@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popup_news"
+        android:icon="@drawable/ic_news"
+        android:title="NEWS" />
+    <item
+        android:id="@+id/popup_gallery"
+        android:icon="@drawable/ic_art"
+        android:title="GALLERY" />
+    <item
+        android:id="@+id/popup_about"
+        android:icon="@drawable/ic_about"
+        android:title="ABOUT" />
+    <item
+        android:id="@+id/popup_discipline"
+        android:icon="@drawable/ic_panel"
+        android:title="DISCIPLINARY PANEL" />
+    <item
+        android:id="@+id/popup_appeal"
+        android:icon="@drawable/ic_appeal"
+        android:title="APPEAL PANEL" />
+<!--    <item-->
+<!--        android:id="@+id/popup_otp"-->
+<!--        android:icon="@drawable/ic_otp"-->
+<!--        android:title="OTP" />-->
+    <item
+        android:id="@+id/popup_rtp_whereabout"
+        android:icon="@drawable/ic_registered_users"
+        android:title="RTP WHEREABOUT" />
+    <item
+        android:id="@+id/popup_admin"
+        android:icon="@drawable/admin"
+        android:title="ADMIN" />
+    <item
+        android:id="@+id/popup_rtp"
+        android:icon="@drawable/prohibited"
+        android:title="PROHIBITED LIST" />
+    <item
+        android:id="@+id/pupup_drugs"
+        android:icon="@drawable/drugs"
+        android:title="DRUGS &amp; COSMETICS" />
+    <item
+        android:id="@+id/popup_dco_officer"
+        android:icon="@drawable/ic_officer"
+        android:title="DCO OFFICER" />
+    <item
+        android:id="@+id/popup_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="LOGOUT" />
+</menu>

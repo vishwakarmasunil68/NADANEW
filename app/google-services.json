@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725335380113",
+    "firebase_url": "https://nada-682ba.firebaseio.com",
+    "project_id": "nada-682ba",
+    "storage_bucket": "nada-682ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725335380113:android:34c9940d8ce3cf76b62f30",
+        "android_client_info": {
+          "package_name": "com.nada.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725335380113-q3uvbdrbajblp831a64q8c8au9422fpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nada.app",
+            "certificate_hash": "fc490dd8fa653b294af38c9a5a0a224d9dad44d9"
+          }
+        },
+        {
+          "client_id": "725335380113-mprilgbvaqg9jjtc76sruq35ai69quqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEmsvpMHZaO_iiYA8RFFaLh0kn5IoHZw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725335380113-mprilgbvaqg9jjtc76sruq35ai69quqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
